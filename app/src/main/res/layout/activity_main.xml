@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+   >
+
+    <Button
+        android:onClick="click1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="拦截方法1" />
+
+    <Button
+        android:onClick="click2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="拦截方法1+过滤拦截测试" />
+</LinearLayout>
