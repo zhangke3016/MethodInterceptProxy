@@ -1,7 +1,7 @@
 
 # MethodInterceptProxy
 
->### 基于dexmaker的Android Aop框架。
+>### 基于dexmaker的Android切面拦截框架。
 >MethodInterceptProxy for Android.It is used by AOP, testing, data access frameworks to generate dynamic proxy objects and intercept field access.
 > API compatible with **Android 2.3+**
 
